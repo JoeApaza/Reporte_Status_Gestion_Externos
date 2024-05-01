@@ -1,4 +1,4 @@
-#REPORTE DE STATUS GESTION EXTERNOS
+## REPORTE DE STATUS GESTION EXTERNOS
 # Python Y HTML: 
 
 Primero, crear un entorno virtual:
